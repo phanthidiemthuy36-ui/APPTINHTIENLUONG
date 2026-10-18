@@ -1,5 +1,6 @@
 
 import streamlit as st
+st.image("LOGO.jpg")
 import pandas as pd
 from io import BytesIO
 
