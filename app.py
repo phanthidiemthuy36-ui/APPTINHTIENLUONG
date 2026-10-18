@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("💰 ỨNG DỤNG TÍNH THUẾ TNCN VÀ LƯƠNG THỰC LÃNH")
+st.title("💰 PHẦN MỀM TÍNH TIỀN LƯƠNG - DIỄM THÚY")
 st.caption(
     "Công cụ ước tính thuế thu nhập cá nhân và tiền lương thực nhận "
     "hằng tháng của người lao động."
